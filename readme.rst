@@ -1,0 +1,1 @@
+Starter Template bagi yang ingin menggunakan AdminLTE 3 dengan Codeigniter 3 (3.1.11)
